@@ -5,8 +5,8 @@ function App() {
 
   return (
     <>
-        <PostsList />
         <AddPostForm />
+        <PostsList />
     </>
   )
 }
